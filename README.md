@@ -11,8 +11,11 @@
 - <b>Designed the website to be responsive, so it looks good on all devices</b> 
 - <b>Created a navigation menu for easy access to different sections</b>
 
-<h2>How to Run</h2>
-<p>To check out my website, just clone this repository and open the index.html file in your web browser.</p>
+> [!TIP]
+> <h2>How to Run</h2>
+> To check out my website, just clone this repository and open the index.html file in your web browser.
+
+
 
 
 <h2>Program walk-through:</h2>
