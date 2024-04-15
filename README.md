@@ -8,8 +8,8 @@
 
 <h2>Features I Implemented </h2>
 
-- <b>Designed the website to be responsive, so it looks good on all devices</b> (21H2)
-- <b>Created a navigation menu for easy access to different sections</b> (21H2)
+- <b>Designed the website to be responsive, so it looks good on all devices</b> 
+- <b>Created a navigation menu for easy access to different sections</b> 
 
 <h2>Program walk-through:</h2>
 
