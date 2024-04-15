@@ -21,12 +21,12 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-This is a snapshot of the homepage, showcasing my personal information and a brief introduction.: <br/>
+This is a snapshot of the homepage, showcasing my personal information and a brief introduction: <br/><br/>
 
   <img src="./Screenshots/Homepage.png" alt="Screenshot 1" width="700px">
 <br />
 <br />
-Here's another screenshot, showing the experiences section with details about my work at Apple.:  <br/>
+Here's another screenshot, showing the experiences section with details about my work at Apple:  <br/><br/>
 
   <img src="./Screenshots/Details.png" alt="Screenshot 2" width="700px">
 <br />
